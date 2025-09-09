@@ -18,3 +18,4 @@ data scientist @ self projects
   - big impact project 2!
 ### projects 
   data for medical patients   
+  data visuals for data 
