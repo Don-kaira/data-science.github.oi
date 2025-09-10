@@ -11,7 +11,6 @@ Don-kaira.github.oi/data-science
 .Google Africa Development training program(Google Cloud Engineer Certification)
 .Huawei Cloud Computing Certification
 
-
 ### Work project self experience
 data scientist @ self projects
   - big impact project 1!
