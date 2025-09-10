@@ -19,3 +19,4 @@ data scientist @ self projects
 ### projects 
   data for medical patients   
   data visuals for data 
+  Oracle Sql employees
